@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 
 '''
 Simple example to demonstrate HW accelerated encoding using python on BrainyPi.
